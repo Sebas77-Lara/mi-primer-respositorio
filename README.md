@@ -26,3 +26,5 @@ Descargue la aplicación y cambie las respuestas previamnete realizadas para mej
 ## 👤 Sobre mí
 Nombre: Sebastián Lara
 Curso: Diploma 1C
+Hora: 11:00+
+holas
