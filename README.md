@@ -9,21 +9,16 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
- 
+Crear la página de inicio de mi proyecto 
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
- 
-### 🎯 ¿Para qué me sirve?
-(Respuesta)
- 
+Es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código.
+
 ---
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
- 
+Aqui realicé varias actualizaciones sobre el repositorio, ahora voy en el 3 
 ---
  
 ## 👤 Sobre mí
-Nombre: 
-Curso: 
+Nombre: Sebastián Lara
+Curso: Diploma 1C
